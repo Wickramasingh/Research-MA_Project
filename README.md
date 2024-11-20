@@ -39,7 +39,7 @@ The dataset is sourced from Kaggle: **Top 1000 YouTube Channels Dataset** 🌐�
 - **Top Channels**: MrBeast and T-Series lead in subscriber counts.  
 - **Engagement Metrics**: Music and Shows categories boast the highest engagement levels.  
 - **Word Cloud**: Highlights the prominence of key categories.
-  <img width="470" alt="Screenshot 2024-11-19 at 10 04 51 PM" src="https://github.com/user-attachments/assets/5aa073e3-6e4d-4fe0-93c6-86fd308520af"> 
+<img width="470" alt="Screenshot 2024-11-19 at 10 04 51 PM" src="https://github.com/user-attachments/assets/5aa073e3-6e4d-4fe0-93c6-86fd308520af"> 
 <img width="1107" alt="Screenshot 2024-11-19 at 10 05 24 PM" src="https://github.com/user-attachments/assets/c92e5d96-59ec-4c65-8ba7-898b156706e5"> <img width="765" alt="Screenshot 2024-11-19 at 10 03 59 PM" src="https://github.com/user-attachments/assets/b69329ec-6f80-4fd7-a9fd-61a155e58e54"> <img width="558" alt="Screenshot 2024-11-19 at 10 04 22 PM" src="https://github.com/user-attachments/assets/e89bc552-61f5-45d1-99df-ae6d59d13d72">
 
 
