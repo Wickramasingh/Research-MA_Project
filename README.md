@@ -42,9 +42,6 @@ The dataset is sourced from Kaggle: **Top 1000 YouTube Channels Dataset** 🌐�
 <img width="470" alt="Screenshot 2024-11-19 at 10 04 51 PM" src="https://github.com/user-attachments/assets/5aa073e3-6e4d-4fe0-93c6-86fd308520af"> 
 <img width="765" alt="Screenshot 2024-11-19 at 10 03 59 PM" src="https://github.com/user-attachments/assets/b69329ec-6f80-4fd7-a9fd-61a155e58e54"> <img width="558" alt="Screenshot 2024-11-19 at 10 04 22 PM" src="https://github.com/user-attachments/assets/e89bc552-61f5-45d1-99df-ae6d59d13d72">
 
-
-
-
 ## Model Training  
 
 ### Objectives  
@@ -69,5 +66,7 @@ The dataset is sourced from Kaggle: **Top 1000 YouTube Channels Dataset** 🌐�
 
 ## Insights  
 
-- **Subscriber Count Prediction**: The XGBoost model outperformed others, achieving a significant R² value, effectively capturing relationships between channel features and subscriber counts.  
-- **Engagement Classification**: The XGBoost model provided the best overall performance in distinguishing *High* and *Low* engagement levels.  
+- **Subscriber Count Prediction**: The XGBoost model outperformed others, achieving a significant R² value, effectively capturing relationships between channel features and subscriber counts.
+<img width="700" alt="Screenshot 2024-11-19 at 10 10 57 PM" src="https://github.com/user-attachments/assets/be4ecc6d-9e93-46b8-a84c-ae49e723a385">
+- **Engagement Classification**: The XGBoost model provided the best overall performance in distinguishing *High* and *Low* engagement levels.
+<img width="789" alt="Screenshot 2024-11-19 at 10 10 15 PM" src="https://github.com/user-attachments/assets/1993b710-ddad-4bcb-8fdd-f0a5080f18b8">
