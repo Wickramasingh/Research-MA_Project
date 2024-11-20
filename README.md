@@ -53,7 +53,7 @@ The dataset is sourced from Kaggle: **Top 1000 YouTube Channels Dataset** ğŸŒğŸ
    A regression model was trained using features such as Video Views, Video Count, Category, and Year Started to predict the number of subscribers a channel has.  
 
 2. **Classifying Engagement Levels**  
-   Channels were categorized into *High* or *Low* engagement classes based on their average views per video.  
+   Channels were categorized into *High* or *Low* engagement classes based on their average views per video and other features.  
 
 ### Models Used  
 
