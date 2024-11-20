@@ -68,5 +68,7 @@ The dataset is sourced from Kaggle: **Top 1000 YouTube Channels Dataset** 🌐�
 
 - **Subscriber Count Prediction**: The XGBoost model outperformed others, achieving a significant R² value, effectively capturing relationships between channel features and subscriber counts.
 <img width="700" alt="Screenshot 2024-11-19 at 10 10 57 PM" src="https://github.com/user-attachments/assets/be4ecc6d-9e93-46b8-a84c-ae49e723a385">
+
+
 - **Engagement Classification**: The XGBoost model provided the best overall performance in distinguishing *High* and *Low* engagement levels.
 <img width="789" alt="Screenshot 2024-11-19 at 10 10 15 PM" src="https://github.com/user-attachments/assets/1993b710-ddad-4bcb-8fdd-f0a5080f18b8">
