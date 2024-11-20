@@ -34,11 +34,14 @@ The dataset is sourced from Kaggle: **Top 1000 YouTube Channels Dataset** 🌐�
 
 ### Key Insights  
 
-- **Popular Categories**: Entertainment, Music, and Shows dominate the platform.  
-- **Growth Trends**: The number of new channels has significantly increased in recent years.  
-- **Top Channels**: MrBeast and T-Series lead in subscriber counts.  
-- **Engagement Metrics**: Music and Shows categories boast the highest engagement levels.  
-- **Word Cloud**: Highlights the prominence of key categories.
+- **Top Channels by Subscribers**: T-Series, MrBeast, and PewDiePie dominate globally, reflecting massive audience reach.  
+- **Popular Categories by Channel Count**: Entertainment, Gaming, and Vlogs have the largest number of channels, showcasing their widespread audience.  
+- **Channel Creation Trends**: Significant growth in new channels, with a notable spike during 2020.  
+- **Most Prolific Channels**: News and Music channels lead in video uploads, driven by automation and frequent content generation.  
+- **Categories with Highest Uploads**: News and Politics, Music, and Entertainment categories dominate in video count.  
+- **Categories with Highest Views**: Music, Entertainment, and Gaming generate the highest video views due to universal popularity.  
+- **Word Cloud Highlights**: Categories like Entertainment, Music, and Gaming are prominently featured, reflecting diverse audience interests.
+
 <img width="470" alt="Screenshot 2024-11-19 at 10 04 51 PM" src="https://github.com/user-attachments/assets/5aa073e3-6e4d-4fe0-93c6-86fd308520af"> 
 <img width="765" alt="Screenshot 2024-11-19 at 10 03 59 PM" src="https://github.com/user-attachments/assets/b69329ec-6f80-4fd7-a9fd-61a155e58e54"> <img width="558" alt="Screenshot 2024-11-19 at 10 04 22 PM" src="https://github.com/user-attachments/assets/e89bc552-61f5-45d1-99df-ae6d59d13d72">
 
