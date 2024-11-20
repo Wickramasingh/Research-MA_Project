@@ -29,3 +29,24 @@ Growth Trends: The number of new channels has significantly increased in recent 
 Top Channels: MrBeast and T-Series lead in subscriber counts.
 Engagement Metrics: Music and Shows categories boast the highest engagement levels.
 Word Cloud: Shows the prominence of categories.
+
+Model Training
+Two primary objectives were addressed using machine learning:
+
+Predicting Subscriber Count: A regression model was trained using features such as Video Views, Video Count, Category, and Year Started to predict the number of subscribers a channel has.
+
+Classifying Engagement Levels: An engagement classification task was undertaken, defining channels as High or Low engagement based on their average views per video.
+Models Used
+Subscriber Count Prediction:
+Random Forest Regressor: Achieved a balanced trade-off between accuracy and interpretability.
+XGBoost Regressor: Delivered the best R-squared value among tested models.
+Linear Regression: Provided a baseline for performance comparison.
+Engagement Classification
+Random Forest Classifier: Demonstrated high precision and recall for engagement classification.
+XGBoost Classifier: Provided robust performance with effective handling of feature importance and imbalances in the dataset.
+Support Vector Machine (SVM): Balanced performance for distinguishing between High and Low engagement classes.
+
+Insights
+Subscriber Count Prediction: The XGBoost model outperformed others with a significant R² value, capturing key relationships between channel features and subscriber counts.
+Engagement Classification: The XGBoost model delivered the best performance for distinguishing between High and Low engagement levels.
+
