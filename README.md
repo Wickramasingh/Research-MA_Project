@@ -34,9 +34,9 @@ The dataset is sourced from Kaggle: **Top 1000 YouTube Channels Dataset** ğŸŒğŸ
 
 ### Key Insights  
 
-- **Top Channels by Subscribers**: T-Series, MrBeast, and PewDiePie dominate globally, reflecting massive audience reach.  
+- **Top Channels by Subscribers**: MrBeast, T-Series, and YouTube Movies dominate globally, reflecting massive audience reach.  
 - **Popular Categories by Channel Count**: Entertainment, Gaming, and Vlogs have the largest number of channels, showcasing their widespread audience.  
-- **Channel Creation Trends**: Significant growth in new channels, with a notable spike during 2020.  
+- **Channel Creation Trends**: Significant growth in new channels, with a notable spike during 2014 and 2021.  
 - **Most Prolific Channels**: News and Music channels lead in video uploads, driven by automation and frequent content generation.  
 - **Categories with Highest Uploads**: News and Politics, Music, and Entertainment categories dominate in video count.  
 - **Categories with Highest Views**: Music, Entertainment, and Gaming generate the highest video views due to universal popularity.  
