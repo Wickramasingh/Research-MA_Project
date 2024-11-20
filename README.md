@@ -1,5 +1,7 @@
 # YouTube Channel Analysis and Growth Predictions Using Machine Learning  
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334e6333786c4f316b476733532f67697068792e676966](https://github.com/user-attachments/assets/c9f07ddf-4183-4414-91f1-f7e122f2523a)
+
 This project provides an in-depth analysis of the top 1000 YouTube channels worldwide. It explores engagement metrics, category trends, and growth patterns while incorporating machine learning models to predict subscriber counts.  
 
 ## Project Overview  
